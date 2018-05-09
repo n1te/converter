@@ -1,0 +1,13 @@
+aiohttp==3.2.0
+aioresponses==0.4.1
+APScheduler==3.5.1
+async-timeout==3.0.0
+attrs==18.1.0
+chardet==3.0.4
+idna==2.6
+idna-ssl==1.0.1
+multidict==4.3.1
+pytz==2018.4
+six==1.11.0
+tzlocal==1.5.1
+yarl==1.2.4
